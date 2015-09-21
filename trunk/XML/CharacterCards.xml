@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CharacterCards back="img\Personaggi\retro.jpg">
+	<card number="71">
+		<name>Cranio Mercanti</name>
+		<front>img\Personaggi\horseFever-71.jpg</front>
+		<danari>3400</danari>
+		<odds>2</odds>
+	</card>
+	<card number="72">
+		<name>Steve McSkull</name>
+		<front>img\Personaggi\horseFever-72.jpg</front>
+		<danari>3600</danari>
+		<odds>3</odds>
+	</card>
+	<card number="73">
+		<name>Viktor von Schädel</name>
+		<front>img\Personaggi\horseFever-73.jpg</front>
+		<danari>3800</danari>
+		<odds>4</odds>
+	</card>
+	<card number="74">
+		<name>César Cràne</name>
+		<front>img\Personaggi\horseFever-74.jpg</front>
+		<danari>4000</danari>
+		<odds>5</odds>
+	</card>
+	<card number="76">
+		<name>Cranéo Cervantes</name>
+		<front>img\Personaggi\horseFever-76.jpg</front>
+		<danari>4400</danari>
+		<odds>7</odds>
+	</card>
+	<card number="75">
+		<name>Sigvard Skalle</name>
+		<front>img\Personaggi\horseFever-75.jpg</front>
+		<danari>4200</danari>
+		<odds>6</odds>
+	</card>
+</CharacterCards>

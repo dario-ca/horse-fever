@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StableCards>
+	<card number="58" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaNer_small.jpg">
+		<name>Die Swarz Mond</name>
+		<front>img\Scuderia\horseFever-58.jpg</front>
+		<color>BLACK</color>
+	</card>
+	<card number="56" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaBlu_small.jpg">
+		<name>The Blue Blood</name>
+		<front>img\Scuderia\horseFever-56.jpg</front>
+		<color>BLUE</color>
+	</card>
+	<card number="60" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaVerde_small.jpg">
+		<name>La Gloire Vert</name>
+		<front>img\Scuderia\horseFever-60.jpg</front>
+		<color>GREEN</color>
+	</card>
+	<card number="59" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaRossa_small.jpg">
+		<name>El Fragor Rojo</name>
+		<front>img\Scuderia\horseFever-59.jpg</front>
+		<color>RED</color>
+	</card>
+	<card number="57" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaGialla_small.jpg">
+		<name>L&apos;Ardor Giallo</name>
+		<front>img\Scuderia\horseFever-57.jpg</front>
+		<color>YELLOW</color>
+	</card>
+	<card number="55" logo="img/SegnaliniQuotazioniScuderie/SegnalinoQuotazioniScuderiaBianca_small.jpg">
+		<name>Virtus Alba</name>
+		<front>img\Scuderia\horseFever-55.jpg</front>
+		<color>WHITE</color>
+	</card>
+</StableCards>

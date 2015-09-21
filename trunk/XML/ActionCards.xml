@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCards back="img/AzioniNegative/retro.jpg">
+	<card number="1">
+		<name>Magna Velocitas</name>
+		<front>img/AzioniPositive/horseFever-0.jpg</front>
+		<letter>A</letter>
+		<effect>POSITIVE</effect>
+		<actionType>START</actionType>
+		<steps>4</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="2">
+		<name>Fortuna Benevola</name>
+		<front>img/AzioniPositive/horseFever-1.jpg</front>
+		<letter>B</letter>
+		<effect>POSITIVE</effect>
+		<actionType>START</actionType>
+		<steps>1</steps>
+		<isStepsAdder>true</isStepsAdder>
+	</card>
+	<card number="3">
+		<name>Flagellum Fulguris</name>
+		<front>img/AzioniPositive/horseFever-2.jpg</front>
+		<letter>C</letter>
+		<effect>POSITIVE</effect>
+		<actionType>SPRINT</actionType>
+		<steps>1</steps>
+		<isStepsAdder>true</isStepsAdder>
+	</card>
+	<card number="4">
+		<name>Herba Magica</name>
+		<front>img/AzioniPositive/horseFever-3.jpg</front>
+		<letter>D</letter>
+		<effect>POSITIVE</effect>
+		<actionType>SPRINT</actionType>
+		<steps>2</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="5">
+		<name>In Igni Veritas</name>
+		<front>img/AzioniPositive/horseFever-4.jpg</front>
+		<letter>F</letter>
+		<effect>POSITIVE</effect>
+		<actionType>PHOTOFINISH</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="6">
+		<name>Fustis et Radix</name>
+		<front>img/AzioniPositive/horseFever-5.jpg</front>
+		<letter>E</letter>
+		<effect>POSITIVE</effect>
+		<actionType>FINISHLINE</actionType>
+		<steps>2</steps>
+		<isStepsAdder>true</isStepsAdder>
+	</card>
+	<card number="7">
+		<name>Vigor Ferreum</name>
+		<front>img/AzioniPositive/horseFever-6.jpg</front>
+		<letter>G</letter>
+		<effect>POSITIVE</effect>
+		<actionType>HELPLAST</actionType>
+		<steps>4</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="8">
+		<name>Globus Obscurus</name>
+		<front>img/AzioniNegative/horseFever-7.jpg</front>
+		<letter>A</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>START</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="9">
+		<name>Aqua Putrida</name>
+		<front>img/AzioniNegative/horseFever-8.jpg</front>
+		<letter>B</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>START</actionType>
+		<steps>1</steps>
+		<isStepsAdder>true</isStepsAdder>
+	</card>
+	<card number="10">
+		<name>Serum Maleficum</name>
+		<front>img/AzioniNegative/horseFever-9.jpg</front>
+		<letter>C</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>SPRINT</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="11">
+		<name>Venenum Veneficum</name>
+		<front>img/AzioniNegative/horseFever-10.jpg</front>
+		<letter>D</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>SPRINT</actionType>
+		<steps>1</steps>
+		<isStepsAdder>true</isStepsAdder>
+	</card>
+	<card number="12">
+		<name>Mala Tempora</name>
+		<front>img/AzioniNegative/horseFever-11.jpg</front>
+		<letter>F</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>PHOTOFINISH</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="13">
+		<name>XIII</name>
+		<front>img/AzioniNegative/horseFever-12.jpg</front>
+		<letter>E</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>FINISHLINE</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="14">
+		<name>Felix Infernalis</name>
+		<front>img/AzioniNegative/horseFever-13.jpg</front>
+		<letter>G</letter>
+		<effect>NEGATIVE</effect>
+		<actionType>STOPFIRST</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="15">
+		<name>Alfio Allibratore</name>
+		<front>img/AzioniNeutre/horseFever-14.jpg</front>
+		<letter></letter>
+		<effect>SPECIAL</effect>
+		<actionType>ODDSUP</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="16">
+		<name>Fritz Finden</name>
+		<front>img/AzioniNeutre/horseFever-15.jpg</front>
+		<letter></letter>
+		<effect>SPECIAL</effect>
+		<actionType>REMOVENEGATIVE</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="19">
+		<name>Steven Sting</name>
+		<front>img/AzioniNeutre/horseFever-18.jpg</front>
+		<letter></letter>
+		<effect>SPECIAL</effect>
+		<actionType>ODDSDOWN</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+	<card number="20">
+		<name>Rochelle Recherche</name>
+		<front>img/AzioniNeutre/horseFever-19.jpg</front>
+		<letter></letter>
+		<effect>SPECIAL</effect>
+		<actionType>REMOVEPOSITIVE</actionType>
+		<steps>0</steps>
+		<isStepsAdder>false</isStepsAdder>
+	</card>
+</ActionCards>
